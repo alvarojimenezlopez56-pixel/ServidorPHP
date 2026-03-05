@@ -10,9 +10,3 @@ A través de este laboratorio, se exploran los métodos de ataque más comunes y
 * **Explotación controlada:** Ejecución de ataques tipo **UNION SELECT** para enumerar bases de datos y extraer información de usuarios.
 * **Implementación de defensas:** Uso de **PDO (PHP Data Objects)** con sentencias preparadas para neutralizar la inyección de código. 
 * **Seguridad criptográfica:** Aplicación de algoritmos de hashing como **bcrypt** mediante `password_hash()` para proteger la privacidad de las credenciales, incluso ante filtraciones de la base de datos. 
-
-## Documentación del Laboratorio
-
-A continuación, se detallan los ejercicios realizados, desde la explotación inicial hasta la segurización total del sistema. 
-
-[📄 Descargar informe completo en PDF](./SQL_Injection_en_PHP.pdf)
